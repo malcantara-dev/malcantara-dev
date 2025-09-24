@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus de Alcantara</h1>
-<h3 align="center">Node.js | Node-RED | C | PostgreSQL | HTML | CSS | JS</h3>
+<h1 align="center">Matheus de Alcantara</h1>
+<h3 align="center">React | Next | PostgreSQL | CI/CD | TDD | Node-RED | C | HTML | CSS | JS</h3>
 
 
 <h3 align="left">Connect with me:</h3>
