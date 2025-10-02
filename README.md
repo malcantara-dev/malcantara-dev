@@ -14,7 +14,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="mailto:email@email.com">email@email.com</a>
+  <a href="mailto:matheus.alcantara.teixeira@gmail.com">matheus.alcantara.teixeira@gmail.com</a>
 </p>
 
 
