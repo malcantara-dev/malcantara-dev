@@ -10,13 +10,13 @@
          alt="LinkedIn"
          height="30" width="40" />
   </a>
-  <a href="mailto:email@email.com" target="_blank" title="Send email">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         alt="Email"
-         height="30" width="40" />
-  </a>
 </p>
+
+<h3 align="left">Contact:</h3>
+<p align="left">
+  <a href="mailto:email@email.com">email@email.com</a>
+</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malcantara-dev&show_icons=true&locale=en" alt="malcantara-dev" /></p>
